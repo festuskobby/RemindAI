@@ -1,0 +1,14 @@
+{
+  "name": "remindai-web",
+  "version": "1.0.0",
+  "description": "RemindAI - AI-powered reminder web app",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+}
